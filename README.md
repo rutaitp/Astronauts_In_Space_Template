@@ -1,1 +1,1 @@
-# Astronauts_In_Space_Template
+Code template for Connections Lab class, IMA Low Res Fall 2022.
