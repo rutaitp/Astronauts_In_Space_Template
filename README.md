@@ -1,1 +1,1 @@
-Code template for Connections Lab class, IMA Low Res Fall 2022.
+Code template for Connections Lab class, IMA Low Res Fall 2023.
